@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M3", "M3\M3.vcxproj", "{9D5710FF-2945-4931-850F-36D3C5109D43}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M3-Texturas", "M3\M3.vcxproj", "{9D5710FF-2945-4931-850F-36D3C5109D43}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M4", "M4\M4.vcxproj", "{0A638671-6ABA-4771-8998-4ED52F58970A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M5", "M5\M5.vcxproj", "{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{0A638671-6ABA-4771-8998-4ED52F58970A}.Release|x64.Build.0 = Release|x64
 		{0A638671-6ABA-4771-8998-4ED52F58970A}.Release|x86.ActiveCfg = Release|Win32
 		{0A638671-6ABA-4771-8998-4ED52F58970A}.Release|x86.Build.0 = Release|Win32
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Debug|x64.ActiveCfg = Debug|x64
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Debug|x64.Build.0 = Debug|x64
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Debug|x86.Build.0 = Debug|Win32
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Release|x64.ActiveCfg = Release|x64
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Release|x64.Build.0 = Release|x64
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Release|x86.ActiveCfg = Release|Win32
+		{3EDB9F9D-0B78-42EF-9549-1D76474DFDED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
